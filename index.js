@@ -50,7 +50,7 @@ function memeUpdate(meme, image, topText, bottomText) {
 	const ctx = meme.getContext("2d");
 	const width = image.width;
 	const height = image.height;
-	const fontSize = Math.floor(width / 20);
+	const fontSize = Math.floor(width / 12);
 	const yOffset = height / 25;
 
 	meme.width = width;
