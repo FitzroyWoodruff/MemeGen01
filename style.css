@@ -20,8 +20,21 @@ body {
 .root input {
 	width: 100%;
 	margin-bottom: 20px;
+	padding: 10px 0;
 }
 
 .meme {
 	width: 100%;
+}
+
+.saveBtn {
+	width: 100%;
+	padding: 10px 0;
+	font-family: "Poppins", sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	border: none;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
 }
