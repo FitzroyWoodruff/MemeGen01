@@ -7,8 +7,13 @@ body {
 
 .root {
 	margin: 25px auto;
-	width: 500px;
+	width: 66.7%;
 	font-family: "Poppins", sans-serif;
+}
+
+.title {
+	text-transform: uppercase;
+	font-size: 3rem;
 }
 
 .root label {
